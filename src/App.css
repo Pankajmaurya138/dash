@@ -5,8 +5,16 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+ 
 }
 
+.nav_bar_wrapper a{
+  text-align: center;
+  padding-left: 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
